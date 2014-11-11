@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="Second Commit">
+    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="c1ddc88e-d23a-4216-9f72-9f1e5fbea841" name="Rejected commit: Default" comment="Second Commit" />
@@ -755,7 +755,7 @@
       <workItem from="1415640026479" duration="13592000" />
       <workItem from="1415681495046" duration="829000" />
       <workItem from="1415682547252" duration="1941000" />
-      <workItem from="1415726119478" duration="6620000" />
+      <workItem from="1415726119478" duration="6627000" />
     </task>
     <task id="LOCAL-00001" summary="ServerSearch">
       <created>1415682790312</created>
@@ -765,11 +765,15 @@
       <created>1415687048549</created>
       <updated>1415687048549</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second Commit">
+      <created>1415733447053</created>
+      <updated>1415733447053</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23484000" />
+    <option name="totallyTimeSpent" value="23491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
