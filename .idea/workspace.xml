@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="" />
+    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SimpleSearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,6 +112,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -724,7 +727,7 @@
       <workItem from="1415639523102" duration="502000" />
       <workItem from="1415640026479" duration="13592000" />
       <workItem from="1415681495046" duration="829000" />
-      <workItem from="1415682547252" duration="1112000" />
+      <workItem from="1415682547252" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="ServerSearch">
       <created>1415682790312</created>
@@ -734,7 +737,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16035000" />
+    <option name="totallyTimeSpent" value="16336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
