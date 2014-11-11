@@ -755,7 +755,7 @@
       <workItem from="1415640026479" duration="13592000" />
       <workItem from="1415681495046" duration="829000" />
       <workItem from="1415682547252" duration="1941000" />
-      <workItem from="1415726119478" duration="6627000" />
+      <workItem from="1415726119478" duration="6674000" />
     </task>
     <task id="LOCAL-00001" summary="ServerSearch">
       <created>1415682790312</created>
@@ -769,11 +769,15 @@
       <created>1415733447053</created>
       <updated>1415733447053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second Commit&#10;">
+      <created>1415733456268</created>
+      <updated>1415733456268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23491000" />
+    <option name="totallyTimeSpent" value="23538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -825,7 +829,8 @@
     <MESSAGE value="ServerSearch" />
     <MESSAGE value="First commit&#10;" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Second Commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
