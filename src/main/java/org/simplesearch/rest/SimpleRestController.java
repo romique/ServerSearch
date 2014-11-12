@@ -18,4 +18,10 @@ public class SimpleRestController {
     public CianPageData get(@RequestParam(value="url", defaultValue="") String url) throws IOException{
         return parser.parse(url);
     }
+
+    @Autowired CianSearchProcessor cianSearchProcessor;
+    @RequestMapping(value="/search", produces="application/json; charset=UTF-8")
+    public CianSearchData getSearchData(@RequestParam(value="url", defaultValue="") String url) throws IOException{
+        return cianSearchProcessor.parse(url);
+    }
 }

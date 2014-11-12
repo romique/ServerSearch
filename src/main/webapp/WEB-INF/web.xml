@@ -16,17 +16,6 @@
         <url-pattern>/rest/*</url-pattern>
     </servlet-mapping>
 
-    <servlet>
-        <servlet-name>index-dispatcher</servlet-name>
-        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-        <load-on-startup>1</load-on-startup>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>index-dispatcher</servlet-name>
-        <url-pattern>/</url-pattern>
-    </servlet-mapping>
-
     <filter>
         <filter-name>cors</filter-name>
         <filter-class>org.simplesearch.rest.SimpleCORSFilter</filter-class>

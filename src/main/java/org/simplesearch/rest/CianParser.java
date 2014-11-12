@@ -35,7 +35,7 @@ public class CianParser {
         Elements metros = doc.select("." + METRO);
         Elements srcs = doc.select("."+IMAGES).select("img");
 
-        String descr = titles.text() + addrs.text() + metros.text();
+        String descr = titles.text() + "\n" + addrs.text() + "\n" + metros.text();
         List<String> images = new ArrayList<String>();
         for (Element element : srcs){
             images.add(element.attr("src"));
