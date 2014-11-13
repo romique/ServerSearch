@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="Fourth commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/cian.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java" afterPath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java" afterPath="$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java" afterPath="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSearch.iml" afterPath="$PROJECT_DIR$/SimpleSearch.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <list default="true" id="c561b3af-0312-4132-ae4e-06d0d7259fe7" name="Default" comment="Fifth commit&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="c1ddc88e-d23a-4216-9f72-9f1e5fbea841" name="Rejected commit: Default" comment="Second Commit" />
+    <list id="c1ddc88e-d23a-4216-9f72-9f1e5fbea841" name="Rejected commit: Default" comment="Fifth commit" />
     <ignored path="SimpleSearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,68 +58,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" line="20" class="org.simplesearch.rest.CianSearchProcessor" package="org.simplesearch.rest">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" line="21" class="org.simplesearch.rest.CianSearchProcessor" package="org.simplesearch.rest">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" line="22" class="org.simplesearch.rest.CianSearchProcessor" package="org.simplesearch.rest">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" line="23" class="org.simplesearch.rest.CianSearchProcessor" package="org.simplesearch.rest">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -141,10 +68,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file leaf-file-name="SimpleRestController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="422" selection-end="422" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="425">
+            <state line="21" column="0" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -159,61 +86,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cian.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CianParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="61" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cian.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/cian.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="26" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="1054">
+            <state line="26" column="13" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.26442307" vertical-offset="222" max-vertical-offset="1054">
               <folding>
-                <marker date="1415832559264" expanded="true" signature="851:884" placeholder="..." />
+                <marker date="1415859100430" expanded="true" signature="978:1011" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <file leaf-file-name="IndexController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.49902153" vertical-offset="0" max-vertical-offset="578">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CianSearchProcessor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="5" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="714">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rest-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/rest-dispatcher-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="107" selection-start="514" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleRestController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="578">
+            <state line="20" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -243,18 +139,18 @@
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/PageData.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/CianParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianPageData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cian.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchData.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/cian.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/cian.js" />
+        <option value="$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java" />
       </list>
     </option>
   </component>
@@ -334,8 +230,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -358,6 +254,102 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -372,7 +364,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistory" value="" />
@@ -787,7 +779,8 @@
       <workItem from="1415682547252" duration="1941000" />
       <workItem from="1415726119478" duration="12218000" />
       <workItem from="1415767812133" duration="4444000" />
-      <workItem from="1415824603375" duration="8111000" />
+      <workItem from="1415824603375" duration="8151000" />
+      <workItem from="1415855533606" duration="3165000" />
     </task>
     <task id="LOCAL-00001" summary="ServerSearch">
       <created>1415682790312</created>
@@ -817,18 +810,26 @@
       <created>1415733631518</created>
       <updated>1415733631518</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fourth commit">
+      <created>1415832728046</created>
+      <updated>1415832728046</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fifth commit">
+      <created>1415859301801</created>
+      <updated>1415859301801</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41637000" />
+    <option name="totallyTimeSpent" value="44842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -857,6 +858,37 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954075" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -877,7 +909,8 @@
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Third Commit&#10;" />
     <MESSAGE value="Fourth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
+    <MESSAGE value="Fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -887,29 +920,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="472" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="459">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/rest-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="107" selection-start="514" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
@@ -921,7 +931,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="19" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="578">
           <folding>
-            <marker date="1415832559264" expanded="true" signature="851:884" placeholder="..." />
+            <marker date="1415859100430" expanded="true" signature="978:1011" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -934,9 +944,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="357">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -955,9 +963,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="442">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -971,9 +977,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="442">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,13 +1122,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="502" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleCORSFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="34" selection-start="220" selection-end="220" vertical-scroll-proportion="0.10059172" vertical-offset="0" max-vertical-offset="845" />
@@ -1147,20 +1144,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="152" selection-start="843" selection-end="987" vertical-scroll-proportion="0.08677686" vertical-offset="298" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="690" selection-end="690" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="29" selection-start="128" selection-end="128" vertical-scroll-proportion="0.22753346" vertical-offset="0" max-vertical-offset="523">
@@ -1168,41 +1151,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="422" selection-end="422" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianPageData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="29" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="714">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+        <state line="23" column="13" selection-start="640" selection-end="640" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
@@ -1214,19 +1165,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/cian.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="26" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="1054">
-          <folding>
-            <marker date="1415832559264" expanded="true" signature="851:884" placeholder="..." />
-          </folding>
+        <state line="16" column="22" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar!/org/jsoup/parser/HtmlTreeBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.49902153" vertical-offset="0" max-vertical-offset="578">
+        <state line="161" column="9" selection-start="7122" selection-end="7122" vertical-scroll-proportion="0.614433" vertical-offset="2422" max-vertical-offset="2907">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar!/org/jsoup/parser/Parser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="42" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.75463915" vertical-offset="348" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar!/org/jsoup/helper/HttpConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="32" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.30103093" vertical-offset="313" max-vertical-offset="3638">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="39" selection-start="619" selection-end="619" vertical-scroll-proportion="0.30103093" vertical-offset="92" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianSearchProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="63" selection-start="463" selection-end="463" vertical-scroll-proportion="0.23333333" vertical-offset="51" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="422" selection-end="422" vertical-scroll-proportion="0.5472837" vertical-offset="0" max-vertical-offset="497">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/SimpleRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianPageData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="29" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/simplesearch/rest/CianParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="61" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/cian.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="13" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.26442307" vertical-offset="222" max-vertical-offset="1054">
+          <folding>
+            <marker date="1415859100430" expanded="true" signature="978:1011" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,6 +1282,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>angular</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1284,12 +1306,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SimpleSearch</last-edited>
+          <last-edited>Spring|SimpleSearch</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
