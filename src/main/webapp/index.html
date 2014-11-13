@@ -5,6 +5,15 @@
     <title>Cian Searcher</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
     <script src="cian.js"></script>
+    <style>
+        TABLE {
+            background: #f0f8ff; /* Цвет фона таблицы */
+        }
+        TD, TH {
+            padding: 2px; /* Поля вокруг текста */
+            border: 1px solid #000; /* Рамка вокруг ячеек */
+        }
+    </style>
 </head>
 
 <body>
@@ -12,7 +21,7 @@
 Ссылка на циан: <input id="url1" type="text">
 <input id="btn" type="button" value="Click" onClick="btnClick()">
 <br />
-<h3>Результат поиска: </h3>
+<h3>Результат поиска (фоточки кликабельны): </h3>
 <br />
 <table id="searchresult">
 </table>

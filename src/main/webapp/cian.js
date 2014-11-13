@@ -21,11 +21,25 @@ function btnClick(){
                 imagedata = "";
                 counter = idx + 1;
                 makeNods(document.getElementById("searchresult"),idx+1);
-                document.getElementById('appartmentdesc'+counter).innerHTML = "<a href='"+ item.url +"' target='_blank'>" + item.descr + "</a>";
-                item.images.forEach(function(item){imagedata = imagedata + "<img style='max-width: 100%; max-height: 100%' src='"+item+"'>";})
+                document.getElementById('appartmentdesc'+counter).innerHTML = "<a href=\""+ item.url +"\" target=\"_blank\">" + item.descr + "</a>";
+                item.images.forEach(function(item, idx){
+                    var appimgid = "app"+counter+"img"+(idx+1);
+                    imagedata = imagedata + "<img id=\""+appimgid+"\" style=\"height: 100px; width: auto\" src=\""+item+"\" onclick=\"resizeImg('"+appimgid+"')\">";
+                })
                 document.getElementById('appartmentimages'+counter).innerHTML = imagedata;
             }
         )
+    }
+}
+
+function resizeImg(img){
+    var image = document.getElementById(img);
+    if (image.getAttribute("isBig")==1){
+        image.removeAttribute("isBig");
+        image.setAttribute("style", "height: 100px; width: auto");
+    } else {
+        image.setAttribute("isBig", 1);
+        image.setAttribute("style", "height: 400px; width: auto");
     }
 }
 
@@ -36,7 +50,7 @@ function makeNods(node, id){
     appartmentdesc.setAttribute("style", "height: 100px; width: 300px");
     var imgtd = addChild(appartment, "td", "");
     var appartmentimages = addChild(imgtd,"div", "appartmentimages"+id);
-    appartmentimages.setAttribute("style", "height: 100px; width: auto");
+    appartmentimages.setAttribute("style", "width: auto");
 }
 
 function addChild(parent, child, idvalue){
