@@ -17,6 +17,7 @@ import java.util.List;
 @Service
 public class CianParser {
     private final static String IMAGES = "object_descr_images_w";
+    private final static String PRICE = "object_descr_price";
     private final static String TITLE = "object_descr_title";
     private final static String ADDR = "object_descr_addr";
     private final static String METRO = "object_descr_metro";
@@ -33,9 +34,10 @@ public class CianParser {
         Elements titles = doc.select("."+TITLE);
         Elements addrs = doc.select("."+ADDR);
         Elements metros = doc.select("." + METRO);
+        Elements price = doc.select("."+PRICE);
         Elements srcs = doc.select("."+IMAGES).select("img");
 
-        String descr = titles.text() + "\n" + addrs.text() + "\n" + metros.text();
+        String descr = price.text() + "<br />" + titles.text() + "<br />" + addrs.text() + "<br />" + metros.text();
         List<String> images = new ArrayList<String>();
         for (Element element : srcs){
             images.add(element.attr("src"));
