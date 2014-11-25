@@ -1,29 +1,63 @@
 <!doctype html>
-<html ng-app>
+<html>
 <meta charset="UTF-8">
 <head>
     <title>Cian Searcher</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
     <script src="cian.js"></script>
-    <style>
-        TABLE {
-            background: #f0f8ff; /* Цвет фона таблицы */
-        }
-        TD, TH {
-            padding: 2px; /* Поля вокруг текста */
-            border: 1px solid #000; /* Рамка вокруг ячеек */
-        }
-    </style>
+    <script src="events.js"></script>
+    <link type="text/css" rel="stylesheet" href="style.css">
 </head>
 
-<body>
-
-Ссылка на циан: <input id="url1" type="text">
-<input id="btn" type="button" value="Click" onClick="btnClick()">
-<br />
-<h3>Результат поиска (фоточки кликабельны): </h3>
-<br />
-<table id="searchresult">
-</table>
+<body onload="onLoad()">
+<div id="searchform">
+    <!--
+    <div class="checkboxes" id="rooms">
+        <span class="checkbox">
+            <input type="checkbox" name="room0" value="1">
+            Комната
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room1" value="1">
+            1
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room2" value="1">
+            2
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room3" value="1">
+            3
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room4" value="1">
+            4
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room5" value="1">
+            5
+        </span>
+        <span class="checkbox">
+            <input type="checkbox" name="room6" value="1">
+            6+
+        </span>
+    </div>
+    <div id="cost">
+        <b>Цена: </b>
+        от <input class="input-cost" type="text" name="minprice">
+        до <input class="input-cost" type="text" name="maxprice">
+    </div>
+-->
+    Ссылка на циан: <input id="url1" type="text">
+    <br />
+    <input id="searchbtn" type="button" value="Найти">
+    <hr />
+</div>
+<div id="searchresultdiv">
+    <input id="showsearchbtn" type="button" value="Показать форму поиска" onclick="hideAndShow('searchform')">
+    <input id="updatebtn" type="button" value="Обновить результаты">
+    <h3 id="resulthead"></h3>
+    <br />
+</div>
 </body>
 </html>
